@@ -15,7 +15,7 @@ This was done on SQL server 2023 involving
 Power BI Desktop
 Dashboard is shared via Pdf in repository.
 
-# Exploratory Data Analysis
+# Data Analysis
 # Questions:
 1)	What's the age distribution, gender breakdown in the company?
 2)	What is the Average tenure distribution for each department?
